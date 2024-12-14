@@ -27,7 +27,7 @@ Backend service for managing a bookings. Provides a REST API for creating, retri
 
 3. Start the development server:
    ```bash
-   npm run dev
+   node index.js
    ```
    The server will run on [http://localhost:3000](http://localhost:3000).
 
