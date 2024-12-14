@@ -95,8 +95,8 @@ Backend service for managing a bookings. Provides a REST API for creating, retri
 ### Create a Booking (POST /bookings):
 ```json
 {
-  "user": "John Doe",
-  "date": "2024-12-25",
+  "user": "User",
+  "date": "2024-10-10",
   "startTime": "10:00",
   "endTime": "12:00"
 }
